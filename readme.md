@@ -28,7 +28,8 @@ The dataset used for this visualization is also shared in this repository. It co
 ### Running the Visualization
 1. Clone this repository:
    ```bash
-   git clone https://github.com/harshvaghanii/netflixdataset-powerbi.git```
+   git clone https://github.com/harshvaghanii/netflixdataset-powerbi.git
+   ```
 2. Open the Power BI file (.pbix) in Power BI Desktop.
 
 
